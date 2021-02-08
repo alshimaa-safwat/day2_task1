@@ -1,14 +1,14 @@
-#Foobar
+# Foobar
 
 foobar is a python library for dealing with word pluralization
 
-##installtion
+## installtion
 
 use the package manager pip to install foobar
 
 pip install foobar
 
-##usage
+## usage
 
 import foobar
 
@@ -18,6 +18,6 @@ foobar.pluralize('goose')
 
 foobar.singularize('phenomena')
 
-##license
+## license
 
 [MIT]
